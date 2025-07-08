@@ -4,6 +4,7 @@ Geometry Dash PSP by Yerson Games but i am improving it
 
 To test the game ISO download the zip file "GDPSPfixed.zip" from the source code or click [HERE](https://github.com/genetrydash/GDPSP-improved/raw/refs/heads/main/GDPSPfixed.zip)
 
+If there are any issues or bugs please report it in the issues tab
 ## What has been improved so far:
 - Improved Physics and closer to the real game
 
