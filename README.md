@@ -16,13 +16,25 @@ If there are any issues or bugs please report it in the issues tab
 
 - Collision was so bad (Improved it by A LOT)
 
+- Corner Collisions
+
 - Ship glitching and no-clipping
 
 - Levels are more optimized and accurate to the real game
 
 - Updated Metatiles
 
+- Practice Mode (beta, only works when cube and colors are messed up)
+
+- Better Particles
+
+- Color Improvements in main menu
+
+- Player lerping/easing (so smoother)
+
 ## To do list:
+- Finish practice mode 
+
 - More graphical improvements (specifically add glow)
 
 - Menu improvements and add high score percentage bar
