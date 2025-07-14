@@ -30,7 +30,7 @@ If there are any issues or bugs please report it in the issues tab
 
 - Color Improvements in main menu
 
-- Player lerping/easing (so smoother)
+- Player lerping/easing (smoother)
 
 ## To do list:
 - Finish practice mode 
