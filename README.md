@@ -11,7 +11,7 @@ If there are any issues or bugs please report it in the issues tab
 ## What has been improved so far:
 - Improved Physics and closer to the real game
 
-- Increased FPS to 60 (and had to redo everything)
+- Increased FPS from 30 to 60 (and had to redo everything)
 
 - The game is now faster to sync more with the music (but not finished)
 
@@ -19,15 +19,15 @@ If there are any issues or bugs please report it in the issues tab
 
 - Collision was so bad (Improved it by A LOT)
 
-- Corner Collisions
+- Corner Collisions are accurate
 
-- Ship glitching and no-clipping
+- Ship glitching and no-clipping has been fixed
 
 - Levels are more optimized and accurate to the real game
 
-- Updated Metatiles
+- Updated tile graphics
 
-- Practice Mode (beta, only works when cube and colors are messed up)
+- Practice Mode (beta, only works when cube and colors are messed up) !! Epilepsy warning !!
 
 - Better Particles
 
