@@ -1,3 +1,6 @@
+# NOTE:
+This project is now inactive and development has stopped. The game can still be downloaded.
+
 ## GDPSP improved
 
 Geometry Dash PSP by Yerson Games but i am improving it
